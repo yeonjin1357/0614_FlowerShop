@@ -123,6 +123,8 @@ span {
     border-radius: 10px;
     background-image: url(../images/bg1.png);
     background-size: cover;
+    background-size: 80%;
+    background-repeat: no-repeat;
 }
 
 #flower1:hover {
@@ -140,6 +142,8 @@ span {
     border-radius: 10px;
     background-image: url(../images/bg2.png);
     background-size: cover;
+    background-size: 70%;
+    background-repeat: no-repeat;
 
 
 }
@@ -159,6 +163,8 @@ span {
     border-radius: 10px;
     background-image: url(../images/bg3.png);
     background-size: cover;
+    background-size: 70%;
+    background-repeat: no-repeat;
 }
 
 #flower3:hover {
